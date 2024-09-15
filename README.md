@@ -1,0 +1,2 @@
+# responsebot
+echo bot::oshanodes
