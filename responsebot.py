@@ -3,7 +3,7 @@ import asyncio,telebot
 from telebot.async_telebot import AsyncTeleBot
 from telebot.handler_backends import StatesGroup, State
 
-bot_token = "7509694550:AAHaZ7nEckGYEatAyUPXvdpaK44aS8LRFmU"
+bot_token = "TELEGRAM_BOT_TOKEN"
 bot = AsyncTeleBot(bot_token)
 
 
